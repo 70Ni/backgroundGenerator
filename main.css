@@ -1,0 +1,70 @@
+.container {
+
+  
+    display:flex;
+    flex-flow: nowrap row;
+    justify-content:center;
+    align-items:center;
+    font-family: 'Open Sans regular';
+    font-style:normal;
+    color: lightslategrey;
+    margin: 50px 0px 0px 0px;
+    
+    
+}
+h2{ 
+    
+    
+    font-family:'Open Sans thin'  ;
+    color: lightslategray;
+    opacity: 0.8;   
+    margin-left: 100px;
+    
+}
+
+.avatar{
+    width: 50px;
+    height: auto;
+    margin:50px;
+    margin-left:;
+
+    flex: 0 1 ;
+    align-self: flex-end;
+    order:3;
+
+   
+
+}
+.contaier_list{
+    margin-left:20px;
+}
+
+ul{
+    font-family:'Open Sans thin'  ;
+    color: lightslategray;
+    opacity: 0.8;
+    margin-left:100px;
+}
+
+li{
+    border: lightsteelblue;
+    margin:10px;
+}
+.form{
+    
+    font-family:'Open Sans thin'  ;
+    color: lightslategray;
+    opacity: 0.8;
+    display:flex;
+    text-decoration:none;
+    text-decoration-line: none;
+    margin-left:  1em;
+
+}
+
+    
+}
+img{
+    
+}
+
